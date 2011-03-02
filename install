@@ -37,3 +37,31 @@ mkdir -p $FW_DIR
 # install Avertv A800 firmware
 mkdir -p $FW_DIR
   cp avertv-a800/* $FW_DIR
+
+# install BCM3510 firmware
+mkdir -p $FW_DIR
+  cp bcm3510/* $FW_DIR
+
+# install Conexant Bluebird firmware
+mkdir -p $FW_DIR
+  cp bluebird/* $FW_DIR
+
+# install Conexant cx231xx firmware
+mkdir -p $FW_DIR
+  cp cx231xx/* $FW_DIR
+
+# install Conexant cx23418 firmware
+mkdir -p $FW_DIR
+  cp cx23418/* $FW_DIR
+
+# install Conexant cx23885 firmware
+mkdir -p $FW_DIR
+  cp cx23885/* $FW_DIR
+
+# install Conexant cx24116 firmware
+mkdir -p $FW_DIR
+  cp cx24116/* $FW_DIR
+
+# install Conexant cx25840 firmware
+mkdir -p $FW_DIR
+  cp cx25840/* $FW_DIR
