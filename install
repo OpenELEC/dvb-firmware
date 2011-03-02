@@ -101,3 +101,43 @@ mkdir -p $FW_DIR
 # install or51211 firmware
 mkdir -p $FW_DIR
   cp or51211/* $FW_DIR
+
+# install s2250 firmware
+mkdir -p $FW_DIR
+  cp s2250/* $FW_DIR
+
+# install s6xx firmware
+mkdir -p $FW_DIR
+  cp s6xx/* $FW_DIR
+
+# install sms1xxx firmware
+mkdir -p $FW_DIR
+  cp sms1xxx/* $FW_DIR
+
+# install tlg2300 firmware
+mkdir -p $FW_DIR
+  cp tlg2300/* $FW_DIR
+
+# install ttusb-budget firmware
+mkdir -p $FW_DIR/ttusb-budget
+  cp ttusb-budget/* $FW_DIR/ttusb-budget
+
+# install umt-010 firmware
+mkdir -p $FW_DIR
+  cp umt-010/* $FW_DIR
+
+# install vp702x firmware
+mkdir -p $FW_DIR
+  cp vp702x/* $FW_DIR
+
+# install vp7045 firmware
+mkdir -p $FW_DIR
+  cp vp7045/* $FW_DIR
+
+# install wt220u firmware
+mkdir -p $FW_DIR
+  cp wt220u/* $FW_DIR
+
+# install xc5000 firmware
+mkdir -p $FW_DIR
+  cp xc5000/* $FW_DIR
