@@ -65,3 +65,39 @@ mkdir -p $FW_DIR
 # install Conexant cx25840 firmware
 mkdir -p $FW_DIR
   cp cx25840/* $FW_DIR
+
+# install dib0700 firmware
+mkdir -p $FW_DIR
+  cp dib0700/* $FW_DIR
+
+# install dibusb firmware
+mkdir -p $FW_DIR
+  cp dibusb/* $FW_DIR
+
+# install ds3000 firmware
+mkdir -p $FW_DIR
+  cp ds3000/* $FW_DIR
+
+# install dtt200u firmware
+mkdir -p $FW_DIR
+  cp dtt200u/* $FW_DIR
+
+# install dw2104 firmware
+mkdir -p $FW_DIR
+  cp dw2104/* $FW_DIR
+
+# install ec168 firmware
+mkdir -p $FW_DIR
+  cp ec168/* $FW_DIR
+
+# install lgs8gxx firmware
+mkdir -p $FW_DIR
+  cp lgs8gxx/* $FW_DIR
+
+# install or51132 firmware
+mkdir -p $FW_DIR
+  cp or51132/* $FW_DIR
+
+# install or51211 firmware
+mkdir -p $FW_DIR
+  cp or51211/* $FW_DIR
