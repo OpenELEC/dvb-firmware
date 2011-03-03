@@ -106,9 +106,9 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp s2250/* $FW_DIR
 
-# install s6xx firmware
+# install s630 firmware
 mkdir -p $FW_DIR
-  cp s6xx/* $FW_DIR
+  cp s630/* $FW_DIR
 
 # install sms1xxx firmware
 mkdir -p $FW_DIR
