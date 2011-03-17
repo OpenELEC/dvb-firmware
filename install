@@ -112,7 +112,7 @@ mkdir -p $FW_DIR
 
 # install s660 firmware
 mkdir -p $FW_DIR
-  cp s630/* $FW_DIR
+  cp s660/* $FW_DIR
 
 # install sms1xxx firmware
 mkdir -p $FW_DIR
