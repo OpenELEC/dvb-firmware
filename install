@@ -94,6 +94,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp lgs8gxx/* $FW_DIR
 
+# install ngene firmware
+mkdir -p $FW_DIR
+  cp ngene/* $FW_DIR
+
 # install or51132 firmware
 mkdir -p $FW_DIR
   cp or51132/* $FW_DIR
