@@ -82,6 +82,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp dtt200u/* $FW_DIR
 
+# install dw2102 firmware
+mkdir -p $FW_DIR
+  cp dw2102/* $FW_DIR
+
 # install dw2104 firmware
 mkdir -p $FW_DIR
   cp dw2104/* $FW_DIR
