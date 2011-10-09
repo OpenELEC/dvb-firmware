@@ -31,8 +31,8 @@ mkdir -p $FW_DIR
   cp af9015/* $FW_DIR
 
 # install AV7110 firmware
-mkdir -p $FW_DIR
-  cp av7110/* $FW_DIR
+mkdir -p $FW_DIR/av7110
+  cp av7110/* $FW_DIR/av7110
 
 # install Avertv A800 firmware
 mkdir -p $FW_DIR
@@ -138,6 +138,10 @@ mkdir -p $FW_DIR
 # install tlg2300 firmware
 mkdir -p $FW_DIR
   cp tlg2300/* $FW_DIR
+
+# install ttpci firmware
+mkdir -p $FW_DIR
+  cp ttpci/* $FW_DIR
 
 # install ttusb-budget firmware
 mkdir -p $FW_DIR/ttusb-budget
