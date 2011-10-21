@@ -147,6 +147,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR/ttusb-budget
   cp ttusb-budget/* $FW_DIR/ttusb-budget
 
+# install ttusb2 firmware
+mkdir -p $FW_DIR
+  cp ttusb2/* $FW_DIR
+
 # install umt-010 firmware
 mkdir -p $FW_DIR
   cp umt-010/* $FW_DIR
