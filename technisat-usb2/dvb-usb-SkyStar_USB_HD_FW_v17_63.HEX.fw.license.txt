@@ -1,0 +1,28 @@
+This firmware is provided by TechniSat Digital UK Ltd whose registered
+office is Witan Gate House 500 - 600 Witan Gate West, Milton Keynes,
+MK9 1SH on 10 October 2010.
+
+The USB firmware file "dvb-usb-SkyStar_USB_HD_FW_v17_63.HEX.fw" for TechniSat's
+SkyStar USB HD product, used together with the Linux driver module
+"dvb-usb-technisat-usb2" is provided under the following licensing
+terms:
+
+Copyright (C) 2010, TechniSat Digital UK Limited
+
+Permission to use, copy, modify and/or distribute this software for
+use with TechniSat's SkyStar USB HD product, with or without a fee is
+hereby granted, provided that the above copyright notice and this
+permission notice appear in all copies.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND THE COPYRIGHT HOLDER DISCLAIMS
+ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE,
+EXCEPT THAT NOTHING IN THIS DISCLAIMER EXCLUDES OR LIMITS THE IMPLIED
+WARRANTY AS TO TITLE UNDER SECTION 12 OF THE SALE OF GOODS ACT 1979.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY SPECIAL,
+DIRECT, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER
+RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
+CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
+CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. NOTHING IN
+THIS DISCLAIMER SHALL BE INTERPRETED AS EXCLUDING OR LIMITING
+LIABILITY FOR DEATH, PERSONAL INJURY OR FRAUD.
