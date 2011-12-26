@@ -139,6 +139,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp sms1xxx/* $FW_DIR
 
+# install tda10071 firmware
+mkdir -p $FW_DIR
+  cp tda10071/* $FW_DIR
+
 # install technisat-usb2 firmware
 mkdir -p $FW_DIR
   cp technisat-usb2/* $FW_DIR
