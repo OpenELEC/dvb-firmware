@@ -103,6 +103,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp it9135/* $FW_DIR
 
+# install it913x firmware
+mkdir -p $FW_DIR
+  cp it913x/* $FW_DIR
+
 # install lgs8gxx firmware
 mkdir -p $FW_DIR
   cp lgs8gxx/* $FW_DIR
