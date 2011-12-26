@@ -155,6 +155,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp tlg2300/* $FW_DIR
 
+# install tm6000 firmware
+mkdir -p $FW_DIR
+  cp tm6000/* $FW_DIR
+
 # install ttpci firmware
 mkdir -p $FW_DIR
   cp ttpci/* $FW_DIR
