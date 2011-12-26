@@ -66,10 +66,6 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp cx24116/* $FW_DIR
 
-# install Conexant cx25840 firmware
-mkdir -p $FW_DIR
-  cp cx25840/* $FW_DIR
-
 # install dib0700 firmware
 mkdir -p $FW_DIR
   cp dib0700/* $FW_DIR
@@ -122,6 +118,10 @@ mkdir -p $FW_DIR
 # install or51211 firmware
 mkdir -p $FW_DIR
   cp or51211/* $FW_DIR
+
+# install pvrusb2 firmware
+mkdir -p $FW_DIR
+  cp pvrusb2/* $FW_DIR
 
 # install s2250 firmware
 mkdir -p $FW_DIR
