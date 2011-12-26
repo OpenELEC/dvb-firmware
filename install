@@ -30,6 +30,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp af9015/* $FW_DIR
 
+# install Abilis's AS10X firmware
+mkdir -p $FW_DIR
+  cp as102/* $FW_DIR
+
 # install AV7110 firmware
 mkdir -p $FW_DIR/av7110
   cp av7110/* $FW_DIR/av7110
