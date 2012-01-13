@@ -190,3 +190,7 @@ mkdir -p $FW_DIR
 # install xc5000 firmware
 mkdir -p $FW_DIR
   cp xc5000/* $FW_DIR
+
+# install xc3028 firmware http://wiki.ubuntuusers.de/em28xx
+mkdir -p $FW_DIR
+  cp xc3028/* $FW_DIR
