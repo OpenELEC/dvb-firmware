@@ -74,6 +74,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp dibusb/* $FW_DIR
 
+# install drxd firmware
+mkdir -p $FW_DIR
+  cp drxd/* $FW_DIR
+
 # install ds3000 firmware
 mkdir -p $FW_DIR
   cp ds3000/* $FW_DIR
