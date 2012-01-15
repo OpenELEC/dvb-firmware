@@ -151,6 +151,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp technisat-usb2/* $FW_DIR
 
+# install terratec firmware
+mkdir -p $FW_DIR
+  cp terratec/* $FW_DIR
+
 # install tlg2300 firmware
 mkdir -p $FW_DIR
   cp tlg2300/* $FW_DIR
