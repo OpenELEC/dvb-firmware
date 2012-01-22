@@ -98,6 +98,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp ec168/* $FW_DIR
 
+# install Hauppauge firmware
+mkdir -p $FW_DIR
+  cp hauppage/* $FW_DIR
+
 # install IT9135 firmware
 # source: http://www.ite.com.tw/uploads/firmware/v3.6.0.0/dvb-usb-it9135.zip
 mkdir -p $FW_DIR
