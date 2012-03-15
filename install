@@ -30,6 +30,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp af9015/* $FW_DIR
 
+# install Afatech AF9055 firmware
+mkdir -p $FW_DIR
+  cp af9035/* $FW_DIR
+
 # install Abilis's AS10X firmware
 mkdir -p $FW_DIR
   cp as102/* $FW_DIR
@@ -100,7 +104,7 @@ mkdir -p $FW_DIR
 
 # install Hauppauge firmware
 mkdir -p $FW_DIR
-  cp hauppage/* $FW_DIR
+  cp hauppauge/* $FW_DIR
 
 # install IT9135 firmware
 # source: http://www.ite.com.tw/uploads/firmware/v3.6.0.0/dvb-usb-it9135.zip
