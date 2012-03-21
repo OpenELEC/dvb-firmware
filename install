@@ -86,6 +86,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp ds3000/* $FW_DIR
 
+# install ds3xxx firmware
+mkdir -p $FW_DIR
+  cp ds3xxx/* $FW_DIR
+
 # install dtt200u firmware
 mkdir -p $FW_DIR
   cp dtt200u/* $FW_DIR
