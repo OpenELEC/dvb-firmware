@@ -159,6 +159,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp sms1xxx/* $FW_DIR
 
+# install tda10048 firmware
+mkdir -p $FW_DIR
+  cp tda10048/* $FW_DIR
+
 # install tda10071 firmware
 mkdir -p $FW_DIR
   cp tda10071/* $FW_DIR
