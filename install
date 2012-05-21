@@ -46,6 +46,10 @@ mkdir -p $FW_DIR/av7110
 mkdir -p $FW_DIR
   cp avertv-a800/* $FW_DIR
 
+# install TERRATEC S7 firmware
+mkdir -p $FW_DIR
+  cp az6027/* $FW_DIR
+
 # install BCM3510 firmware
 mkdir -p $FW_DIR
   cp bcm3510/* $FW_DIR
