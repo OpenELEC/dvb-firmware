@@ -30,7 +30,7 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp af9015/* $FW_DIR
 
-# install Afatech AF9055 firmware
+# install Afatech AF9035 firmware
 mkdir -p $FW_DIR
   cp af9035/* $FW_DIR
 
