@@ -139,6 +139,10 @@ mkdir -p $FW_DIR
 mkdir -p $FW_DIR
   cp or51211/* $FW_DIR
 
+# install pctv firmware
+mkdir -p $FW_DIR
+  cp pctv/* $FW_DIR  
+
 # install pvrusb2 firmware
 mkdir -p $FW_DIR
   cp pvrusb2/* $FW_DIR
