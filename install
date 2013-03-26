@@ -22,6 +22,10 @@
 
 FW_DIR="$DESTDIR/lib/firmware"
 
+# install Afatech AF9005 firmware
+mkdir -p $FW_DIR
+  cp af9005/* $FW_DIR
+
 # install Afatech AF9013 firmware
 mkdir -p $FW_DIR
   cp af9013/* $FW_DIR
